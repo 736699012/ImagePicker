@@ -40,6 +40,8 @@ public class MainActivity extends AppCompatActivity {
         initConfig();
     }
 
+    public void testCommit(){}
+
     private void initConfig() {
         PickerConfig pickerConfig = PickerConfig.getInstance();
         pickerConfig.setMax_selected_pic(MAX_SELECTED_PIC);
