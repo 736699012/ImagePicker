@@ -41,6 +41,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void testCommit(){}
+    public void testCommit2(){}
+    public void testCommit3(){}
 
     private void initConfig() {
         PickerConfig pickerConfig = PickerConfig.getInstance();
